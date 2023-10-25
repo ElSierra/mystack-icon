@@ -1,19 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 2000 2000">
   <defs>
     <style>
-      .cls-1 {
+      .cls-1, .cls-2 {
         fill: #fff;
-        fill-rule: evenodd;
       }
 
-      .cls-2 {
-        font-size: 200px;
-        font-family: "Myriad Pro";
+      .cls-1 {
+        fill-rule: evenodd;
       }
     </style>
   </defs>
   <rect x="37.594" y="37.594" width="1924.816" height="1924.816" rx="573" ry="573"/>
   <path id="y" class="cls-1" d="M770.807,1392.26q-25.651,18.15-69.836,18.15H619.694v177.55H744.372q97.06,0,155.059-41.03t99.033-141.25l407.176-992.7H1185.48L957.43,977.192,727.012,412.983H498.961l355.1,819.877-38.666,93.12Q796.453,1374.1,770.807,1392.26Z"/>
-  <path class="cls-1" d="M1044.38,1412.5h361.24v171H1044.38v-171Z"/>
-  <text id="Lorem_Ipsum" data-name="Lorem Ipsum" class="cls-2" x="2421.66" y="804.722">Lorem Ipsum</text>
+  <rect class="cls-2" x="1044.38" y="1412.5" width="361.24" height="171"/>
 </svg>
